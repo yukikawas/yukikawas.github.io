@@ -29,4 +29,4 @@
 
 ### 友情链接：  
 [catme0w猫喵](https://catme0w.org/)  
-[Bigsk比格](https://www.ianxia.com/)  
+[Bigsk比格~~自助披萨~~](https://blog.ianxia.com/)  
