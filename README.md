@@ -1,6 +1,6 @@
-## 雪川Yukikawa
-
-### 关于我的Fursona     
+# 雪川  
+ 
+### Yukikawa  
 <img alt="我的设定Yukikawa" height="156" src="/img/yukikawa_fursona.PNG" width="134"/>
 
 
@@ -28,4 +28,5 @@
 [E-Mail](mailto:bi4lne@icloud.com)  
 
 ### 友情链接：  
-[猫喵](https://catme0w.org/)
+[catme0w猫喵](https://catme0w.org/)  
+[Bigsk比格](https://www.ianxia.com/)  
